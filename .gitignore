@@ -1,0 +1,32 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+.venv
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dados pessoais
+estudos.json
+
+# Arquivos temporários
+*.log
+*.tmp
+.cache/
+
+# Arquivos do sistema operacional
+Thumbs.db
+desktop.ini

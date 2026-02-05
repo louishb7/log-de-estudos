@@ -1,0 +1,33 @@
+{
+    "estudos": [
+        {
+            "data": "01/02/2026",
+            "status": "Estudado",
+            "horas": 3.5,
+            "meta_amanha": "4 horas focadas em Python e estruturas de dados"
+        },
+        {
+            "data": "02/02/2026",
+            "status": "Estudado",
+            "horas": 4.0,
+            "meta_amanha": "3 horas de Git e GitHub"
+        },
+        {
+            "data": "03/02/2026",
+            "status": "Não Estudado",
+            "horas": 0
+        },
+        {
+            "data": "04/02/2026",
+            "status": "Justificado",
+            "horas": 0,
+            "justificativa": "Compromisso familiar importante"
+        },
+        {
+            "data": "05/02/2026",
+            "status": "Estudado",
+            "horas": 5.5,
+            "meta_amanha": "4 horas de algoritmos e prática de coding"
+        }
+    ]
+}
